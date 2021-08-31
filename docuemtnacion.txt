@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=EBERLn5sLPY
+http://openaccess.uoc.edu/webapps/o2/bitstream/10609/98767/6/jvegaarTFM0619memoria.pdf
+https://www.apsl.net/blog/2018/02/02/tensor-flow-para-principiantes-vi-uso-de-la-api-keras/
+https://victorzhou.com/blog/keras-neural-network-tutorial/?fbclid=IwAR156osrcX6-MQ_lGFR5jYfPGkczudieD4sU0e13ewgmNZ_NRQvvAN3EOio
